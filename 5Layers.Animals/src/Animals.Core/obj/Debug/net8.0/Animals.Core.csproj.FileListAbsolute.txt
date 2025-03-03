@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\bin\Debug\net8.0\Animals.Core.deps.json
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\bin\Debug\net8.0\Animals.Core.dll
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\bin\Debug\net8.0\Animals.Core.pdb
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.dll
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\refint\Animals.Core.dll
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.pdb
+C:\Users\Admin\OneDrive\Desktop\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\ref\Animals.Core.dll

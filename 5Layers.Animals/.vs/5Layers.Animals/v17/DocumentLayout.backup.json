@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\domain\\animals\\commands\\updateanimal\\updateanimalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\commands\\updateanimal\\updateanimalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\domain\\animals\\commands\\createanimal\\createanimalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\commands\\createanimal\\createanimalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\domain\\animals\\commands\\deleteanimal\\deleteanimalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\commands\\deleteanimal\\deleteanimalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.persistence\\core\\animals\\dataprovider\\animalsdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|solutionrelative:src\\animals.persistence\\core\\animals\\dataprovider\\animalsdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.persistence\\core\\animals\\dataprovider\\ianimalsdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|solutionrelative:src\\animals.persistence\\core\\animals\\dataprovider\\ianimalsdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.infrastructure\\core\\domain\\animals\\common\\animalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|solutionrelative:src\\animals.infrastructure\\core\\domain\\animals\\common\\animalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3BBA4E-A947-4928-BEF7-BE7174319456}|src\\Animals.Core\\Animals.Core.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.core\\domain\\common\\ianimalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3BBA4E-A947-4928-BEF7-BE7174319456}|src\\Animals.Core\\Animals.Core.csproj|solutionrelative:src\\animals.core\\domain\\common\\ianimalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.persistence\\core\\animals\\dataprovider\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|solutionrelative:src\\animals.persistence\\core\\animals\\dataprovider\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.api\\domain\\animals\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|solutionrelative:src\\animals.api\\domain\\animals\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.infrastructure\\application\\domain\\animals\\queries\\getanimaldetails\\getanimaldetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|solutionrelative:src\\animals.infrastructure\\application\\domain\\animals\\queries\\getanimaldetails\\getanimaldetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|solutionrelative:src\\animals.persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.infrastructure\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|solutionrelative:src\\animals.infrastructure\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3BBA4E-A947-4928-BEF7-BE7174319456}|src\\Animals.Core\\Animals.Core.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.core\\domain\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3BBA4E-A947-4928-BEF7-BE7174319456}|src\\Animals.Core\\Animals.Core.csproj|solutionrelative:src\\animals.core\\domain\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.infrastructure\\application\\domain\\animals\\queries\\getanimals\\getanimalsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|solutionrelative:src\\animals.infrastructure\\application\\domain\\animals\\queries\\getanimals\\getanimalsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3BBA4E-A947-4928-BEF7-BE7174319456}|src\\Animals.Core\\Animals.Core.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.core\\domain\\data\\createanimaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3BBA4E-A947-4928-BEF7-BE7174319456}|src\\Animals.Core\\Animals.Core.csproj|solutionrelative:src\\animals.core\\domain\\data\\createanimaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\domain\\animals\\queries\\getanimals\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\queries\\getanimals\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\domain\\animals\\queries\\getanimals\\getanimalsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\queries\\getanimals\\getanimalsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.api\\constants\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|solutionrelative:src\\animals.api\\constants\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\domain\\animals\\queries\\getanimaldetails\\getanimaldetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\queries\\getanimaldetails\\getanimaldetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.api\\domain\\animals\\records\\createanimalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|solutionrelative:src\\animals.api\\domain\\animals\\records\\createanimalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\domain\\animals\\commands\\createanimal\\createanimalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\commands\\createanimal\\createanimalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.api\\domain\\animals\\records\\updateanimalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|solutionrelative:src\\animals.api\\domain\\animals\\records\\updateanimalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\applicationregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\applicationregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.application\\common\\pageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\common\\pageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|solutionrelative:src\\animals.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|c:\\work\\hillel\\pro\\5layers.animals\\src\\animals.persistence\\animals.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1A552E4-4E3E-4327-9DA6-081EF7B3A03F}|src\\Animals.Persistence\\Animals.Persistence.csproj|solutionrelative:src\\animals.persistence\\animals.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalDto.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\Core\\Animals\\DataProvider\\AnimalDto.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Persistence\\Core\\Animals\\DataProvider\\AnimalDto.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\Core\\Animals\\DataProvider\\AnimalDto.cs",
+              "RelativeToolTip": "src\\Animals.Persistence\\Core\\Animals\\DataProvider\\AnimalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:55:25.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteAnimalCommandHandler.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Commands\\DeleteAnimal\\DeleteAnimalCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Commands\\DeleteAnimal\\DeleteAnimalCommandHandler.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Commands\\DeleteAnimal\\DeleteAnimalCommandHandler.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Commands\\DeleteAnimal\\DeleteAnimalCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:36:15.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalsRepository.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Infrastructure\\Core\\Domain\\Animals\\Common\\AnimalsRepository.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Infrastructure\\Core\\Domain\\Animals\\Common\\AnimalsRepository.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Infrastructure\\Core\\Domain\\Animals\\Common\\AnimalsRepository.cs",
+              "RelativeToolTip": "src\\Animals.Infrastructure\\Core\\Domain\\Animals\\Common\\AnimalsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:43:51.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimalsDataProvider.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\Core\\Animals\\DataProvider\\IAnimalsDataProvider.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Persistence\\Core\\Animals\\DataProvider\\IAnimalsDataProvider.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\Core\\Animals\\DataProvider\\IAnimalsDataProvider.cs",
+              "RelativeToolTip": "src\\Animals.Persistence\\Core\\Animals\\DataProvider\\IAnimalsDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:44:23.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalsDataProvider.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\Core\\Animals\\DataProvider\\AnimalsDataProvider.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Persistence\\Core\\Animals\\DataProvider\\AnimalsDataProvider.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\Core\\Animals\\DataProvider\\AnimalsDataProvider.cs",
+              "RelativeToolTip": "src\\Animals.Persistence\\Core\\Animals\\DataProvider\\AnimalsDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:42:30.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateAnimalCommandHandler.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Commands\\CreateAnimal\\CreateAnimalCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Commands\\CreateAnimal\\CreateAnimalCommandHandler.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Commands\\CreateAnimal\\CreateAnimalCommandHandler.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Commands\\CreateAnimal\\CreateAnimalCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:04:22.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateAnimalCommandHandler.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Commands\\UpdateAnimal\\UpdateAnimalCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Commands\\UpdateAnimal\\UpdateAnimalCommandHandler.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Commands\\UpdateAnimal\\UpdateAnimalCommandHandler.cs*",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Commands\\UpdateAnimal\\UpdateAnimalCommandHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:04:22.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAnimalsRepository.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Core\\Domain\\Common\\IAnimalsRepository.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Core\\Domain\\Common\\IAnimalsRepository.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Core\\Domain\\Common\\IAnimalsRepository.cs",
+              "RelativeToolTip": "src\\Animals.Core\\Domain\\Common\\IAnimalsRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:00:58.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAnimalDetailsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimalDetails\\GetAnimalDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimalDetails\\GetAnimalDetailsQueryHandler.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimalDetails\\GetAnimalDetailsQueryHandler.cs",
+              "RelativeToolTip": "src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimalDetails\\GetAnimalDetailsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:31:00.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersistenceRegistration.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\PersistenceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Persistence\\PersistenceRegistration.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\PersistenceRegistration.cs",
+              "RelativeToolTip": "src\\Animals.Persistence\\PersistenceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:03:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Domain\\Animals\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Api\\Domain\\Animals\\AnimalsController.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Domain\\Animals\\AnimalsController.cs",
+              "RelativeToolTip": "src\\Animals.Api\\Domain\\Animals\\AnimalsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:06:14.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAnimalsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimals\\GetAnimalsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimals\\GetAnimalsQueryHandler.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimals\\GetAnimalsQueryHandler.cs",
+              "RelativeToolTip": "src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimals\\GetAnimalsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:23:00.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InfrastructureRegistration.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Infrastructure\\InfrastructureRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Infrastructure\\InfrastructureRegistration.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Infrastructure\\InfrastructureRegistration.cs",
+              "RelativeToolTip": "src\\Animals.Infrastructure\\InfrastructureRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:41:08.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Core\\Domain\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Core\\Domain\\Models\\Animal.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Core\\Domain\\Models\\Animal.cs",
+              "RelativeToolTip": "src\\Animals.Core\\Domain\\Models\\Animal.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:04:22.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAnimalsQuery.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimals\\GetAnimalsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimals\\GetAnimalsQuery.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimals\\GetAnimalsQuery.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimals\\GetAnimalsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:56:56.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateAnimalData.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Core\\Domain\\Data\\CreateAnimalData.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Core\\Domain\\Data\\CreateAnimalData.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Core\\Domain\\Data\\CreateAnimalData.cs",
+              "RelativeToolTip": "src\\Animals.Core\\Domain\\Data\\CreateAnimalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:55:45.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationRegistration.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\ApplicationRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\ApplicationRegistration.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\ApplicationRegistration.cs",
+              "RelativeToolTip": "src\\Animals.Application\\ApplicationRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:04:22.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnimalDto.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimals\\AnimalDto.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimals\\AnimalDto.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimals\\AnimalDto.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimals\\AnimalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:29:27.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Constants\\Routes.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Api\\Constants\\Routes.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Constants\\Routes.cs",
+              "RelativeToolTip": "src\\Animals.Api\\Constants\\Routes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:07:43.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAnimalDetailsQuery.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalDetails\\GetAnimalDetailsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalDetails\\GetAnimalDetailsQuery.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalDetails\\GetAnimalDetailsQuery.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalDetails\\GetAnimalDetailsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:13:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateAnimalRequest.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Domain\\Animals\\Records\\CreateAnimalRequest.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Api\\Domain\\Animals\\Records\\CreateAnimalRequest.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Domain\\Animals\\Records\\CreateAnimalRequest.cs",
+              "RelativeToolTip": "src\\Animals.Api\\Domain\\Animals\\Records\\CreateAnimalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:15:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateAnimalCommand.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Commands\\CreateAnimal\\CreateAnimalCommand.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Commands\\CreateAnimal\\CreateAnimalCommand.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Commands\\CreateAnimal\\CreateAnimalCommand.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Commands\\CreateAnimal\\CreateAnimalCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:15:35.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateAnimalRequest.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Domain\\Animals\\Records\\UpdateAnimalRequest.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Api\\Domain\\Animals\\Records\\UpdateAnimalRequest.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Domain\\Animals\\Records\\UpdateAnimalRequest.cs",
+              "RelativeToolTip": "src\\Animals.Api\\Domain\\Animals\\Records\\UpdateAnimalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:18:18.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Api\\Program.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Api\\Program.cs",
+              "RelativeToolTip": "src\\Animals.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:04:00.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PageResponse.cs",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Common\\PageResponse.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Common\\PageResponse.cs",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Application\\Common\\PageResponse.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Common\\PageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:56:56.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Animals.Persistence.csproj",
+              "DocumentMoniker": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\Animals.Persistence.csproj",
+              "RelativeDocumentMoniker": "src\\Animals.Persistence\\Animals.Persistence.csproj",
+              "ToolTip": "C:\\Work\\Hillel\\Pro\\5Layers.Animals\\src\\Animals.Persistence\\Animals.Persistence.csproj",
+              "RelativeToolTip": "src\\Animals.Persistence\\Animals.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T09:41:11.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
